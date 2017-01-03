@@ -1,5 +1,9 @@
 # learn-react
 
+Steps to create new react project:
+
+create a new folder
+
 ` npm init `
 
 ` npm install react react-dom `
@@ -15,4 +19,6 @@ create index.html
 create index.js
 
 ` npm start `
+
+Create a local .gitignore file to ignore dist and node_modules folder
 
