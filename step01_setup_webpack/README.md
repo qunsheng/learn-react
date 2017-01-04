@@ -1,4 +1,4 @@
-# learn-react
+# Set up Webpack
 
 Steps to create new react project:
 
