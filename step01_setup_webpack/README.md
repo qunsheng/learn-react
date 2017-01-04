@@ -22,3 +22,6 @@ create index.js
 
 Create a local .gitignore file to ignore dist and node_modules folder
 
+Go to https://chrome.google.com/webstore/search/react%20dev%20tool, add React Developer Tools to Chrome.
+
+
