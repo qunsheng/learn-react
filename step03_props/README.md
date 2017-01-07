@@ -1,6 +1,6 @@
 # Step 03 Props
 
-copy everything from step 03
+copy everything from step 02
 
 `npm install`
 
