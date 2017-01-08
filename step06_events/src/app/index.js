@@ -4,6 +4,8 @@ var ReactDOM = require('react-dom');
 // Module requires
 var TodoItem = require('./todoItem');
 
+//CSS requires
+require('./css/index.css');
 
 var TodoComponent = React.createClass({
     getInitialState: function(){

@@ -12,6 +12,8 @@ create a new folder
 
 ` npm install webpack webpack-dev-server --save-dev ` 
 
+` npm install style-loader css-loader --save-dev `
+
 create webpack.config.js
 
 create index.html
