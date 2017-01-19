@@ -1,4 +1,4 @@
-# Step 16 redux middleware
+# Step 16 redux async middleware
 
 copy everything from step 15
 
