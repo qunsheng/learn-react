@@ -1,6 +1,6 @@
 # Step 16 redux middleware
 
-copy everything from step 16
+copy everything from step 15
 
 `npm install axios --save-dev`
 
